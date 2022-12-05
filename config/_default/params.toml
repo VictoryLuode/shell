@@ -6,8 +6,8 @@
 # https://nunocoracao.github.io/blowfish/docs/configuration/#theme-parameters
 
 colorScheme = "blowfish"
-defaultAppearance = "light" # valid options: light or dark
-autoSwitchAppearance = true
+defaultAppearance = "dark" # valid options: light or dark
+autoSwitchAppearance = false
 
 enableSearch = true
 enableCodeCopy = true
@@ -57,8 +57,8 @@ enableCodeCopy = true
   invertPagination = false
   showReadingTime = true
   showTableOfContents = true
-  showTaxonomies = false 
-  showAuthorsBadges = false 
+  showTaxonomies = false
+  showAuthorsBadges = false
   showWordCount = true
   showSummary = true
   sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"]
