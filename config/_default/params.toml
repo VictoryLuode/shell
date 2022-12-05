@@ -27,8 +27,8 @@ logo = "/img/VLC.png"
   showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "/img/backgroud.png" # used in: hero, and card
+  layout = "custom" # valid options: page, profile, hero, card, background, custom
+  # homepageImage = "/img/backgroud.png" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
   showMoreLink = false
