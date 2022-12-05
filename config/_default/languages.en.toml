@@ -1,7 +1,7 @@
-languageCode = "zh-cn"
+languageCode = "en"
 languageName = "English"
 displayName = "EN"
-isoCode = "zh-cn"
+isoCode = "en"
 weight = 1
 rtl = false
 
@@ -15,7 +15,7 @@ dateFormat = "2 January 2006"
 [author]
   name = "VictoryLuode"
   image = "img/VictoryLuodeProf.png"
-  headline = "I'm only human"
+  headline = "一个即将毕业的学生仔，忙着找个工作"
   bio = "A little bit about you"
   links = [
      { email = "mailto:victoryluode@outlook.com" },
