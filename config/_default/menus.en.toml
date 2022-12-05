@@ -11,20 +11,44 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
+  name = "ArtWork"
+  pageRef = "artwork"
   weight = 10
 
 [[main]]
-  name = "Categories"
-  pageRef = "categories"
+  name = "Blog"
+  pageRef = "Blog"
   weight = 20
 
 [[main]]
-  name = "Tags"
-  pageRef = "tags"
+  name = "Resource"
+  pageRef = "Resource"
   weight = 30
 
+[[main]]
+  name = "AboutMe"
+  pageRef = "user"
+  weight = 40
+
+# Link
+
+  [[main]]
+    identifier = "twitter"
+    pre = "twitter"
+    url = "https://twitter.com/VictoryLuode"
+    weight = 75
+
+  [[main]]
+    identifier = "artstation"
+    pre = "artstation"
+    url = "https://www.artstation.com/victoryluode"
+    weight = 80
+
+    [[main]]
+      identifier = "Instagram"
+      pre = "Instagram"
+      url = "https://www.instagram.com/victoryluode"
+      weight = 70
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
