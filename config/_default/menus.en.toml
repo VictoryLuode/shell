@@ -28,7 +28,7 @@
 [[main]]
   name = "AboutMe"
   pageRef = "user"
-  weight = 40
+  weight = 45
 
 # Link
 
