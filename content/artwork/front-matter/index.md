@@ -9,6 +9,8 @@ series: ["Documentation"]
 series_order: 7
 ---
 
-In addition to the [default Hugo front matter parameters](https://gohugo.io/content-management/front-matter/#front-matter-variables), Blowfish adds a number of additional options to customise the presentation of individual articles. All the available theme front matter parameters are listed below.
+In additiaaaaaon to the [default Hugo front matter parameters](https://www.artstation.com/), Blowfish adds a number of additional options to customise the presentation of individual articles. All the available theme front matter parameters are listed below.
 
 Front matter parameter default values are inherited from the theme's , so you only need to specify these parameters in your front matter when you want to override the default.
+
+asasas
