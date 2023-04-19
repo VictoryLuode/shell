@@ -5,7 +5,7 @@ description: "This is a demo of the Blowfish theme for Hugo."
 专注在概念艺术和CG动画上，平时也做做硬表面，有对应的项目可以和私信我哦！
 
 
-
+{{< article link="/文章/关于学习CG的一些想法/" >}}
 
 
 
