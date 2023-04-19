@@ -1,4 +1,4 @@
-module github.com/VictoryLuode/Test01.git
+module github.com/VictoryLuode/shell.git
 
 go 1.20
 
