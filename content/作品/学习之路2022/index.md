@@ -3,14 +3,11 @@ title: "学习之路2022"
 date: 2022-03-19T07:04:15+01:00
 draft: false
 featuredImage: "/images/01.jpg"
-lightgallery: true
 ---
 
 >在这里记录我2022年的学习历程，
 >
 >写下每段时间都学习以及做了什么。
-
-
 
 ## 城市系列作品
 {{< figure src="https://cdna.artstation.com/p/assets/images/images/046/151/968/large/victoryluode-01.jpg?1644419529" title="灯火深处" >}}

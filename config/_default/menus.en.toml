@@ -61,26 +61,26 @@
 [[main]]
   identifier = "artstation"
   pre = "artstation"
-  url = "https://masto.ai/@blowfish"
+  url = "https://www.artstation.com/victoryluode"
   weight = 70
 
-[[main]]
-  identifier = "twitter"
-  pre = "twitter"
-  url = "https://twitter.com/burufugu"
-  weight = 75
+#[[main]]
+#  identifier = "twitter"
+#  pre = "twitter"
+#  url = "https://twitter.com/VictoryLuode"
+#  weight = 75
 
-[[main]]
-    identifier = "bilibili"
-    pre = "bilibili"
-    url = "https://masto.ai/@blowfish"
-    weight = 76
+#[[main]]
+#    identifier = "bilibili"
+#    pre = "bilibili"
+#    url = "https://space.bilibili.com/176090455?spm_id_from=333.1007.0.0"
+#    weight = 76
 
-[[main]]
-  identifier = "instagram"
-  pre = "instagram"
-  url = "https://github.com/nunocoracao/blowfish"
-  weight = 80
+#[[main]]
+#  identifier = "instagram"
+#  pre = "instagram"
+#  url = "https://www.instagram.com/victoryluode/"
+#  weight = 80
 
 
 # -- Footer Menu --

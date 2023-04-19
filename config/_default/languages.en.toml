@@ -7,7 +7,7 @@ rtl = false
 
 title = "VictoryLuode"
 logo = "img/VLC.png"
-description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+description = "nothing"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
@@ -15,8 +15,8 @@ dateFormat = "2 January 2006"
 [author]
   name = "VictoryLuode"
   image = "img/VictoryLuodeProf.png"
-  headline = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
-  bio = "CG Artist"
+  headline = "-- 羅 德 成 --"
+  bio = "Digital Artist"
   links = [
   { email = "mailto:victoryluode@outlook.com" },
   { bilibili = "https://space.bilibili.com/176090455?spm_id_from=333.1007.0.0" },
