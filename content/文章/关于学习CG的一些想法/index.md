@@ -2,7 +2,7 @@
 title: "关于自学CG的一些想法"
 date: 2022-03-08T11:04:49+08:00
 draft: false
-
+heroStyle: thumbAndBackground
 ---
 > [victoryluode.com](https://www.victoryluode.com) 是我个人的学习博客与作品展示地。
 >
