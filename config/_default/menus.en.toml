@@ -11,36 +11,41 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Docs"
-  pageRef = "docs"
+  name = "作品"
+  pageRef = "作品"
   weight = 10
 
 [[main]]
-  name = "Examples"
+  name = "文章"
+  pageRef = "文章"
   weight = 20
 
 [[main]]
-  name = "Recipes"
-  parent = "Examples"
-  pageRef = "guides"
-  weight = 10
-
-[[main]]
-  name = "Samples"
-  parent = "Examples"
-  pageRef = "samples"
-  weight = 20
-
-[[main]]
-  name = "Showcase"
-  parent = "Examples"
-  pageRef = "examples"
+  name = "关于"
+  pageRef = "关于"
   weight = 30
 
-[[main]]
-  name = "Users"
-  pageRef = "users"
-  weight = 40
+#[[main]]
+#  name = "Examples"
+#  weight = 20
+
+#[[main]]
+#  name = "Recipes"
+#  parent = "Examples"
+#  pageRef = "guides"
+#  weight = 10
+
+#[[main]]
+#  name = "Samples"
+#  parent = "Examples"
+#  pageRef = "samples"
+#  weight = 20
+
+#[[main]]
+#  name = "Showcase"
+#  parent = "Examples"
+#  pageRef = "examples"
+#  weight = 30
 
 #[[main]]
 #  name = "Merch"
