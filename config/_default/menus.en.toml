@@ -11,49 +11,76 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "ArtWork"
-  pageRef = "artwork"
+  name = "Docs"
+  pageRef = "docs"
   weight = 10
 
 [[main]]
-  name = "Blog"
-  pageRef = "Blog"
+  name = "Examples"
   weight = 20
 
 [[main]]
-  name = "Resource"
-  pageRef = "Resource"
+  name = "Recipes"
+  parent = "Examples"
+  pageRef = "guides"
+  weight = 10
+
+[[main]]
+  name = "Samples"
+  parent = "Examples"
+  pageRef = "samples"
+  weight = 20
+
+[[main]]
+  name = "Showcase"
+  parent = "Examples"
+  pageRef = "examples"
   weight = 30
 
 [[main]]
-  name = "AboutMe"
-  pageRef = "user"
-  weight = 45
+  name = "Users"
+  pageRef = "users"
+  weight = 40
 
-# Link
+#[[main]]
+#  name = "Merch"
+#  url = "http://tee.pub/lic/qwSlWVBL5zc"
+#  weight = 50
 
-  [[main]]
-    identifier = "twitter"
-    pre = "twitter"
-    url = "https://twitter.com/VictoryLuode"
-    weight = 75
+#[[main]]
+#  name = "Test"
+#  pageRef = "pagTest"
+#  weight = 1000
 
-  [[main]]
-    identifier = "artstation"
-    pre = "artstation"
-    url = "https://www.artstation.com/victoryluode"
-    weight = 80
 
-    [[main]]
-      identifier = "Instagram"
-      pre = "Instagram"
-      url = "https://www.instagram.com/victoryluode"
-      weight = 70
+[[main]]
+  identifier = "artstation"
+  pre = "artstation"
+  url = "https://masto.ai/@blowfish"
+  weight = 70
+
+[[main]]
+  identifier = "twitter"
+  pre = "twitter"
+  url = "https://twitter.com/burufugu"
+  weight = 75
+
+[[main]]
+    identifier = "bilibili"
+    pre = "bilibili"
+    url = "https://masto.ai/@blowfish"
+    weight = 76
+
+[[main]]
+  identifier = "instagram"
+  pre = "instagram"
+  url = "https://github.com/nunocoracao/blowfish"
+  weight = 80
+
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
-
 
  [[footer]]
    name = "Tags"
@@ -61,6 +88,6 @@
    weight = 10
 
  [[footer]]
-   name = "Categories"
-   pageRef = "categories"
+   name = "Authors"
+   pageRef = "authors"
    weight = 20

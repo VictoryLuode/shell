@@ -6,8 +6,8 @@ weight = 1
 rtl = false
 
 title = "VictoryLuode"
-# logo = "img/logo.png"
-description = "My awesome website"
+logo = "img/VLC.png"
+description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
@@ -15,13 +15,13 @@ dateFormat = "2 January 2006"
 [author]
   name = "VictoryLuode"
   image = "img/VictoryLuodeProf.png"
-  headline = "一个即将毕业的学生仔，忙着找个工作"
-  bio = "A little bit about you"
+  headline = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  bio = "CG Artist"
   links = [
-     { email = "mailto:victoryluode@outlook.com" },
-     { bilibili = "https://space.bilibili.com/176090455?spm_id_from=333.1007.0.0" },
-     { instagram = "https://www.instagram.com/victoryluode/" },
-     { artstation = "https://www.artstation.com/victoryluode" },
-     { twitter = "https://twitter.com/VictoryLuode" },
-     { youtube = "https://www.youtube.com/victoryluode" },
-  ]
+  { email = "mailto:victoryluode@outlook.com" },
+  { bilibili = "https://space.bilibili.com/176090455?spm_id_from=333.1007.0.0" },
+  { instagram = "https://www.instagram.com/victoryluode/" },
+  { artstation = "https://www.artstation.com/victoryluode" },
+  { twitter = "https://twitter.com/VictoryLuode" },
+  { youtube = "https://www.youtube.com/victoryluode" },
+]
