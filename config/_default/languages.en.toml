@@ -19,9 +19,9 @@ dateFormat = "2 January 2006"
   bio = "Digital Artist"
   links = [
   { email = "mailto:victoryluode@outlook.com" },
-  { bilibili = "https://space.bilibili.com/176090455?spm_id_from=333.1007.0.0" },
-  { instagram = "https://www.instagram.com/victoryluode/" },
   { artstation = "https://www.artstation.com/victoryluode" },
   { twitter = "https://twitter.com/VictoryLuode" },
+  { instagram = "https://www.instagram.com/victoryluode/" },
   { youtube = "https://www.youtube.com/victoryluode" },
+  { bilibili = "https://space.bilibili.com/176090455?spm_id_from=333.1007.0.0" },
 ]
