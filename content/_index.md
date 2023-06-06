@@ -8,6 +8,5 @@ description: "This is a demo of the Blowfish theme for Hugo."
   <img src="gallery/01.jpg" class="grid-w100" />
   <img src="gallery/02.jpg" class="grid-w100" />
   <img src="gallery/04.jpg" class="grid-w100" />
-  <img src="gallery/05.jpg" class="grid-w100" />
 
 {{< /gallery >}}
